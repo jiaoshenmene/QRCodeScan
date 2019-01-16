@@ -1,0 +1,22 @@
+PODS:
+  - GDTMobSDK (4.8.3):
+    - GDTMobSDK/GDTMobSDK (= 4.8.3)
+  - GDTMobSDK/GDTMobSDK (4.8.3)
+  - Masonry (1.0.0)
+
+DEPENDENCIES:
+  - GDTMobSDK
+  - Masonry (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GDTMobSDK
+    - Masonry
+
+SPEC CHECKSUMS:
+  GDTMobSDK: a17d7cc66d3265b8d89318c35636e45b4e848d4f
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+
+PODFILE CHECKSUM: e3039de3d27e17059074d9146889fffe782d0fae
+
+COCOAPODS: 1.5.3
